@@ -60,3 +60,79 @@ border: none;
     display: flex;
     justify-content: center;
 }
+
+/* web section start here  */
+.web-section{
+    width: 80%;
+    margin: 100px auto;
+}
+.web-section-bg{
+    border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.02);
+padding: 55px 90px;
+}
+.web-heading {
+    color: rgb(13, 19, 33);
+font-size: 30px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+}
+.web-subtitle {
+    color: rgb(13, 19, 33);
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+width: 70%;
+margin: auto;
+}
+.do-coding-flex{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 70px;
+    display: flex;
+    gap: 70px;
+}
+.web-descript-container{
+    padding: 40px;
+}
+.web-title{
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0%;
+}
+
+.web-descript {
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin: 15px 0;
+}
+
+.learn-more-btn{
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+font-size: 12px;
+font-weight: 600;
+padding: 8px 10px;
+text-align: center;
+}
+
+.help-people-flex{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 70px;
+}
