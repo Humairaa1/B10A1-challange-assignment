@@ -136,3 +136,36 @@ text-align: center;
     flex-direction: row-reverse;
     gap: 70px;
 }
+
+/* my-inspiration-section start here  */
+
+.my-inspiration-section{
+    width: 80%;
+    margin: 100px auto;
+}
+.inspiration-heading{
+    color: rgb(13, 19, 33);
+font-size: 30px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+margin-bottom: 20px;
+}
+.inspiration-descript{
+    color: rgb(13, 19, 33);
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+width: 70%;
+margin: auto;
+}
+.utube-video{
+    width: 860px;
+    margin: auto;
+    margin-top: 40px;
+}
