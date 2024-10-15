@@ -151,7 +151,7 @@ line-height: 30px;
 letter-spacing: 0%;
 text-align: center;
 margin-bottom: 20px;
-margin-bottom: 20px;
+
 }
 .inspiration-descript{
     color: rgb(13, 19, 33);
@@ -168,4 +168,73 @@ margin: auto;
     width: 860px;
     margin: auto;
     margin-top: 40px;
+}
+
+/* current-target-section start here  */
+
+.current-target-section {
+    width: 80%;
+    margin: 100px auto;
+}
+
+.target-header{
+    color: rgb(13, 19, 33);
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.target-descript{
+    color: rgb(13, 19, 33);
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+width: 70%;
+margin: auto;
+}
+.target-card-container{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
+.html-card{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+}
+.heading{
+font-size: 20px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0%;
+margin: 10px 0;
+}
+.title{
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+margin-bottom: 20px;
+}
+.css-card{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+padding: 40px;
+}
+.js-card{
+    border-radius: 16px;
+background: rgba(255, 223, 0, 0.05);
+padding: 40px;
+}
+.lern-more{
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 10px;
+    letter-spacing: 0%; 
 }
